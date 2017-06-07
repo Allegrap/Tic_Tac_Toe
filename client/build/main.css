@@ -1,0 +1,17 @@
+button {
+  width: 60px;
+  height: 60px;
+  font-size: 45px;
+  opacity: 0.5;
+}
+
+div {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  margin-top: auto;
+}
+
+body {
+  background: url("http://images.naldzgraphics.net/2012/08/28-Pristine.jpg");
+}
